@@ -83,6 +83,9 @@ venv\Scripts\activate     # Windows
 # Install dependencies
 pip install -r requirements.txt
 
+# Run the application
+streamlit run app.py
+
 # Run the notebook
 jupyter notebook
 
@@ -94,11 +97,14 @@ pandas, numpy
 
 scikit-learn
 
+joblib
+
 Jupyter Notebook
 
 # Author
 
 Areeb Khan – Data Science Enthusiast & Machine Learning Developer
 GitHub Profile
+
 
 
