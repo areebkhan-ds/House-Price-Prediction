@@ -33,6 +33,17 @@ The dataset contains 21,613 records and 21 features:
 
 Note: All features are complete with no missing values.
 
+# App Information
+House Price Prediction is a machine learning application designed to estimate the selling price of houses based on various property features such as number of bedrooms, bathrooms, location, and other property details. The app can help real estate agents, property buyers, and developers make informed decisions by predicting house prices accurately.
+
+Platform: Python-based application
+
+Tech Stack: Python, scikit-learn, pandas, NumPy, matplotlib, seaborn
+
+Type: Machine Learning / Data Science Application
+
+Target Users: Real estate agents, property developers, buyers, and market analysts
+
 # Methodology
 
 Since only accuracy is computed, the model evaluation is based solely on accuracy score. No additional metrics or feature engineering have been applied in this version.
@@ -89,4 +100,5 @@ Jupyter Notebook
 
 Areeb Khan – Data Science Enthusiast & Machine Learning Developer
 GitHub Profile
+
 
